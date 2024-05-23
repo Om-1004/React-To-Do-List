@@ -2,7 +2,7 @@
 
 React Application of a To Do List Task Manager
 
-<img src="./public/screenshot.png"  />
+<img src="./screenshot.png"  />
 
 ## Features
 
